@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: hsl(234, 15%, 26%);
+  color: white;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
